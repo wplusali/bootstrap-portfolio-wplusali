@@ -40,3 +40,14 @@ body {
     height: 100%;
     object-fit: cover;
   }
+
+  .about-social a {
+    margin: 0 20px 0 0; /* Space out the icons */
+    color: #333; /* Default icon color */
+    font-size: 28px; /* Icon size */
+    text-decoration: none;
+  }
+  
+  .about-social a:hover {
+    color: #007bff; /* Color change on hover */
+  }
